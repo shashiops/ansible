@@ -1,0 +1,24 @@
+<Person>
+    <Name>Shashidhar</Name>
+    <DOB>17-02-20</DOB>
+    <Address>
+        <add-1>RBS</add-1>
+        <add-2>Apex</add-2>
+        <add-3>School</add-3>
+    </Address>
+</Person>
+
+<Person>
+    <Name>siva</Name>
+    <DOB>10-02-20</DOB>
+    <Home-Address>
+        <add-1>asdf</add-1>
+        <add-2>Apex</add-2>
+        <add-3>School1</add-3>
+    </Home-Address>
+    <Office-Address>
+        <add-1>qwrt</add-1>
+        <add-2>Apex</add-2>
+        <add-3>School2</add-3>
+    </Office-Address>
+</Person>

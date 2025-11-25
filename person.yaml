@@ -1,0 +1,21 @@
+- Name: Shashidhar
+  Age: 22
+  Email: shashidhar@gmail.com
+  Address:
+    add-1: RBS
+    add-2: ILM
+    city: Hyd
+  Height: 5.11
+
+- Name: Shiva
+  Age: 33
+  Email: siva@gmail.com
+  Address:
+  - add-1: YRS
+    add-2: VNR
+    city: vizak
+  - add-1: IMC
+    add-2: PMK
+    city: Buihar
+  Height: 5.5
+

@@ -1,0 +1,27 @@
+[
+    {
+        "name": "shashi",
+        "dob": "2020-02-17",
+        "add": {
+            "add-1": "RBS",
+            "add-2": "ILM",
+            "city": "Hyd"
+        }
+    },
+    {
+        "name": "shashi",
+        "bod": "17-02-20",
+        "add": [
+            {
+            "add-1": "RBS",
+            "add-2": "ILM",
+            "city": "Hyd"
+            },
+            {
+            "add-1": "RLB",
+            "add-2": "SCB",
+            "city": "Hyd"
+            }
+        ]
+    }
+]
