@@ -2,9 +2,10 @@
 10.0.0.2
 
 [web]
-13.48.147.161
-13.51.162.62
-56.228.23.142
+[web]
+13.48.147.161 ansible_user=ec2-user ansible_ssh_private_key_file=/home/ec2-user/ansible.pem
+13.51.162.62 ansible_user=ec2-user ansible_ssh_private_key_file=/home/ec2-user/ansible.pem
+56.228.23.142 ansible_user=ec2-user ansible_ssh_private_key_file=/home/ec2-user/ansible.pem
 
 [catalogue]
 28.26.2.0
